@@ -1,5 +1,4 @@
 import "../styles/about.css";
-import Shapes from "./Shapes";
 const About = () => {
   return (
     <section className="about container section" id="about"> 

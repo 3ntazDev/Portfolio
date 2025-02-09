@@ -6,7 +6,7 @@ import Sidebar from "./components/Sidebar.jsx";
 import Testimonials from "./components/testimonials.jsx";
 import Contact from "./components/Contact.jsx";
 import Blog from "./components/Blog.jsx";
-import Home from "./components/home.jsx";
+import Home from "./components/Home.jsx";
 function App() {
   return (
     <div>

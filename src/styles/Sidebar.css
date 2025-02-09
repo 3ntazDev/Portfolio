@@ -2,7 +2,7 @@
     position: fixed;
     left: 0;
     top: 0;
-    background: var(--body-color);
+    background: black;
     border-right: 1px solid rgba(0, 0, 0, 0.05);
     padding: 2.5rem;
     width: 110px;
@@ -19,3 +19,15 @@
     row-gap: 1rem;
   }
   
+  .nav__link {
+    color: white;
+    font-size: 1.25rem;
+    font-weight: var(--font-semi-bold);
+    writing-mode: horizontal-tb;
+    transition: 3s;
+   
+  }
+  .nav__link:hover {
+    color: hsl(43, 100%, 68%);
+  }
+

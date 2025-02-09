@@ -1,6 +1,6 @@
 import Data from "../Data";
 import Card from "./Card";
-import "../styles/Resume.css";
+import "../styles/resume.css";
 
 const Resume = () => {
   return (
